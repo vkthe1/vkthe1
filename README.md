@@ -5,7 +5,7 @@ Tech Geek with keen interest in Mobile Trends. Package | Plugin | Library Creato
 
 ## 💻 Tech Interested In:
 ![flutter](https://img.shields.io/badge/flutter-23272a?style=for-the-badge&logo=flutter&logoColor=29B6F6)
-![aws](https://img.shields.io/badge/aws-23272a?style=for-the-badge&logo=aws&logoColor=252F3E)
+![aws](https://img.shields.io/badge/aws-23272a?style=for-the-badge&logo=amazonaws&logoColor=252F3E)
 ![android](https://img.shields.io/badge/android-23272a?style=for-the-badge&logo=android&logoColor=3DDC84)
 ![kotlin](https://img.shields.io/badge/kotlin-23272a?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![java](https://img.shields.io/badge/java-C74634?style=for-the-badge&logo=java&logoColor=7F52FF)
@@ -18,7 +18,7 @@ Tech Geek with keen interest in Mobile Trends. Package | Plugin | Library Creato
 ![GitHub Streak](https://streak-stats.demolab.com?user=vkthe1&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=23272A)
 
 ## 🏆 Github Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?username=vkthe1&theme=discord&margin-w=5&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?vkthe1=ryo-ma&margin-w=15)
 
 ## ✍️ Dev Card:
 <a href="https://app.daily.dev/vivekfaldu"><img src="https://api.daily.dev/devcards/v2/g8M09Ur9r9BmOAr71PSiB.png?type=default&r=sm9" width="356" alt="Vivek Faldu's Dev Card"/></a>
