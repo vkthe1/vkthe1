@@ -5,14 +5,14 @@ Tech Geek with keen interest in Mobile Trends. Package | Plugin | Library Creato
 
 ## 💻 Tech Interested In:
 ![flutter](https://img.shields.io/badge/flutter-23272a?style=for-the-badge&logo=flutter&logoColor=29B6F6)
-![aws](https://img.shields.io/badge/aws-23272a?style=for-the-badge&logo=amazonaws&logoColor=ffffff&labelColor=FF9900)
-![cloud](https://img.shields.io/badge/cloud-23272a?style=for-the-badge&logo=icloud&logoColor=3693F3)
 ![android](https://img.shields.io/badge/android-23272a?style=for-the-badge&logo=android&logoColor=3DDC84)
 ![kotlin](https://img.shields.io/badge/kotlin-23272a?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![java](https://img.shields.io/badge/java-C74634?style=for-the-badge&logo=java&logoColor=7F52FF)
 ![github](https://img.shields.io/badge/github-23272a?style=for-the-badge&logo=github&logoColor=fafbfc)
 ![gitlab](https://img.shields.io/badge/gitlab-23272a?style=for-the-badge&logo=gitlab&logoColor=fc6d27)
 ![git](https://img.shields.io/badge/git-23272a?style=for-the-badge&logo=git&logoColor=FF8080)
+![aws](https://img.shields.io/badge/aws-23272a?style=for-the-badge&logo=amazonaws&logoColor=ffffff&labelColor=FF9900)
+![cloud](https://img.shields.io/badge/cloud-23272a?style=for-the-badge&logo=icloud&logoColor=3693F3)
 ![Figma](https://img.shields.io/badge/figma-23272a?style=for-the-badge&logo=figma&logoColor=f24e1e)
 
 ## 📊 GitHub Stats:
