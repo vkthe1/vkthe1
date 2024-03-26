@@ -22,8 +22,7 @@
 ![cloud](https://img.shields.io/badge/cloud-23272a?style=for-the-badge&logo=icloud&logoColor=3693F3)
 ![Figma](https://img.shields.io/badge/figma-23272a?style=for-the-badge&logo=figma&logoColor=f24e1e)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vkthe1&show_icons=true&locale=en&layout=compact" alt="vkthe1" /></p>
-<br></br>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vkthe1" alt="vkthe1" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vkthe1&" alt="vkthe1" /></p>
