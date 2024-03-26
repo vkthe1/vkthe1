@@ -1,8 +1,3 @@
-### Hi there 👋
-
-## ✍🏻 Bio Graphy
-
-
 <h1 align="center">Hi 👋, I'm Vivek Faldu</h1>
 <h3 align="center">A passionate Mobile developer from India who like to create Package | Plugin | Libraries.</h3>
 
