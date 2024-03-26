@@ -19,7 +19,7 @@ Tech Geek with keen interest in Mobile Trends. Package | Plugin | Library Creato
 ![GitHub Streak](https://streak-stats.demolab.com?user=vkthe1&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=23272A)
 
 ## 🏆 Github Trophies:
-![trophy](https://github-profile-trophy.vercel.app/?vkthe1=ryo-ma&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=vkthe1&margin-w=15)
 
 ## ✍️ Dev Card:
 <a href="https://app.daily.dev/vivekfaldu"><img src="https://api.daily.dev/devcards/v2/g8M09Ur9r9BmOAr71PSiB.png?type=default&r=sm9" width="356" alt="Vivek Faldu's Dev Card"/></a>
