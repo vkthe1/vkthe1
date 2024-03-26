@@ -30,7 +30,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vkthe1&" alt="vkthe1" /></p>
 
 ## ✍️ Dev Card:
-<a href="https://app.daily.dev/vivekfaldu"><img src="https://api.daily.dev/devcards/v2/g8M09Ur9r9BmOAr71PSiB.png?type=default&r=sm9" width="356" alt="Vivek Faldu's Dev Card"/></a>
+<a href="https://app.daily.dev/vivekfaldu"><img src="https://api.daily.dev/devcards/v2/g8M09Ur9r9BmOAr71PSiB.png?type=wide&r=y1s" width="652" alt="Vivek Faldu's Dev Card"/></a>
+
 <!--
 **vkthe1/vkthe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
