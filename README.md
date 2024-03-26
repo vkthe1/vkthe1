@@ -5,7 +5,7 @@ Tech Geek with keen interest in Mobile Trends. Package | Plugin | Library Creato
 
 ## 💻 Tech Interested In:
 ![flutter](https://img.shields.io/badge/flutter-23272a?style=for-the-badge&logo=flutter&logoColor=29B6F6)
-![aws](https://img.shields.io/badge/aws?style=for-the-badge&logo=aws&logoColor=252F3E)
+![aws](https://img.shields.io/badge/aws-23272a?style=for-the-badge&logo=aws&logoColor=252F3E)
 ![android](https://img.shields.io/badge/android-23272a?style=for-the-badge&logo=android&logoColor=3DDC84)
 ![kotlin](https://img.shields.io/badge/kotlin-23272a?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![java](https://img.shields.io/badge/java-C74634?style=for-the-badge&logo=java&logoColor=7F52FF)
