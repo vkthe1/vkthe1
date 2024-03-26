@@ -10,6 +10,8 @@
 <a href="https://stackoverflow.com/users/vivek-faldu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vivek-faldu" height="30" width="40" /></a>
 </p>
 
+- 📫 How to reach me **techgeekvkthe1@gmail.com**
+
 ## 💻 Tech Interested In:
 ![flutter](https://img.shields.io/badge/flutter-23272a?style=for-the-badge&logo=flutter&logoColor=29B6F6)
 ![android](https://img.shields.io/badge/android-23272a?style=for-the-badge&logo=android&logoColor=3DDC84)
