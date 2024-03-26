@@ -18,7 +18,7 @@
 ![github](https://img.shields.io/badge/github-23272a?style=for-the-badge&logo=github&logoColor=fafbfc)
 ![gitlab](https://img.shields.io/badge/gitlab-23272a?style=for-the-badge&logo=gitlab&logoColor=fc6d27)
 ![git](https://img.shields.io/badge/git-23272a?style=for-the-badge&logo=git&logoColor=FF8080)
-![aws](https://img.shields.io/badge/aws-23272a?style=for-the-badge&logo=amazonaws&logoColor=ffffff&labelColor=FF9900)
+![aws](https://img.shields.io/badge/aws-23272a?style=for-the-badge&logo=amazonaws&logoColor=ffffff)
 ![cloud](https://img.shields.io/badge/cloud-23272a?style=for-the-badge&logo=icloud&logoColor=3693F3)
 ![Figma](https://img.shields.io/badge/figma-23272a?style=for-the-badge&logo=figma&logoColor=f24e1e)
 
